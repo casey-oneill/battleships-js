@@ -1,0 +1,27 @@
+body {
+  height: 100vh;
+  user-select: none !important;
+  -moz-user-select: none m !important;
+  -webkit-user-select: none !important;
+}
+
+h1 {
+  margin: 0 !important;
+}
+
+p {
+  margin: 0 !important;
+}
+
+.grid-row {
+  padding-left: 26vw !important;
+  padding-right: 26vw !important;
+}
+
+.grid-item {
+  background-color: white !important;
+  min-height: 6rem !important;
+  height: 6rem !important;
+  min-width: 6rem !important;
+  width: 6rem !important;
+}
