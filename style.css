@@ -13,11 +13,6 @@ p {
   margin: 0 !important;
 }
 
-.grid-row {
-  padding-left: 26vw !important;
-  padding-right: 26vw !important;
-}
-
 .grid-item {
   background-color: white !important;
   min-height: 6rem !important;
